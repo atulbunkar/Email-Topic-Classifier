@@ -1,1 +1,1 @@
-# Text-Classification-using-CNN
+# Text-Classification-using-LSTM
