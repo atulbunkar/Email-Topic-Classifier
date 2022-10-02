@@ -1,6 +1,6 @@
 # Text-Classification-using-LSTM
 
-To run the project :
+To run the project :  
     - Create a new Env 
     - Install all libraries from reqm.txt
     - Build and Run the file using cmd : Python model.py
