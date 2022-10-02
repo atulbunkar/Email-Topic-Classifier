@@ -1,5 +1,9 @@
 # Text-Classification-using-LSTM
 
+To run the project :
+    - Create a new Env 
+    - Install all libraries from reqm.txt
+    - Build and Run the file using cmd : Python model.py
 
 We have around 18k emails , which are classified into one of 20 classes each. Our task is to predict which class a particular file belongs to.
 We used 1d Conv Neural Nets for this task. 
